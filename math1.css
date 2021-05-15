@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(210, 231, 231);
+    font-family: Arial, sans-serif;
+}
+.link{
+    text-align: center;
+}
+.link a{
+    background-color: rgb(148, 85, 95);
+    padding: 7px 15px;
+    margin: 0px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+.span1{
+    background-color: rgb(8, 8, 90);
+    color: white;
+}
+.class1{
+    margin: 0px 30px;
+}
+.class2{
+    text-align: right;
+    border-top: dashed red 2px;
+    padding-top: 30px;
+}
+#hh2{
+    color: blue;
+    text-align:center;
+    font-size: 25px;
+}
+.text{
+    margin: 25px 0px;
+    font-size: 25px;
+    text-align: center;
+}
+.calcul{
+    font-size: 25px;
+    text-align: center;
+    background-color: brown;
+    width: 300px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.calcul a{
+    color: white;
+    text-decoration: none;
+}
